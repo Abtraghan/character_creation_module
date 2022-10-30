@@ -1,0 +1,10 @@
+asciimatics==1.14.0
+flake8==5.0.4
+future==0.18.2
+mccabe==0.7.0
+Pillow==9.2.0
+pycodestyle==2.9.1
+pyfiglet==0.8.post1
+pyflakes==2.5.0
+pywin32==304
+wcwidth==0.2.5
